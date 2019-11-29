@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-09-29 18:33:08 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:08 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:08 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:14 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:14 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:14 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:22 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:22 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:22 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:33:22 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:34:45 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:34:45 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:34:46 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:34:46 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:34:58 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:34:58 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:34:58 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:34:58 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:37:07 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:37:07 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:37:08 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:37:08 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:37:35 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:37:35 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:37:36 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:37:36 --> 404 Page Not Found: Assets/user
+ERROR - 2019-09-29 18:40:11 --> 404 Page Not Found: Assets/user
